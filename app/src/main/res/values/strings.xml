@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Viki</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userId">账号</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="back">返回</string>
+    <string name="main_page">首页</string>
+    <string name="deal_center">买卖圈</string>
+    <string name="shopping_cart">购物车</string>
+    <string name="my_info">我的</string>
+    <string name="title_activity_detail_page">DetailPageActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main_page">MainPageActivity</string>
 </resources>
